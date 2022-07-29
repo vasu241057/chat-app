@@ -2,7 +2,7 @@
 
 Clone this repository
 ``` shell
-git clone https://github.com/vasu241057/Shopping-cart
+git clone https://github.com/vasu241057/chat-app
 ```
 
 Install dependencies
